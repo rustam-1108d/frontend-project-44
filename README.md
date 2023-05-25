@@ -36,7 +36,7 @@ make brain-even
 make brain-calc
 ```
 
-### Запуск игры 
+### Запуск игры "Определение наибольшего общего делителя"
 ```sh
 make brain-gcd
 ```
@@ -46,7 +46,7 @@ make brain-gcd
 make brain-progression
 ```
 
-### "Определение простого числа"
+### Запуск игры "Определение простого числа"
 ```sh
 make brain-prime
 ```
