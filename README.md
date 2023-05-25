@@ -7,3 +7,8 @@
 ```sh
 $ brain-even
 ```
+
+## For start game "Brain calc"
+```sh
+$ brain-calc
+```
