@@ -17,3 +17,8 @@ $ brain-calc
 ```sh
 $ brain-gcd
 ```
+
+## For start game "Brain progression"
+```sh
+$ brain-progression
+```
