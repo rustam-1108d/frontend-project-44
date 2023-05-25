@@ -3,27 +3,50 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/be164294ceb19af434be/maintainability)](https://codeclimate.com/github/rustam-1108d/frontend-project-44/maintainability)
 
-## For start game "Brain even"
+# Игры разума - первый проект в программе фронтенд-разработчик на Хекслет
+
+## Описание
+«Игры разума» — набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново. Игры:
+
+* Калькулятор. Арифметические выражения, которые необходимо вычислить.
+* Прогрессия. Поиск пропущенных чисел в последовательности чисел.
+* Определение четного числа.
+* Определение наибольшего общего делителя.
+* Определение простого числа.
+
+## Минимальные требования
+* Git
+* Node.js
+* NMP
+
+## Установка
 ```sh
-$ brain-even
+git clone https://github.com/rustam-1108d/frontend-project-44.git
+cd frontend-project-44
+make install
 ```
 
-## For start game "Brain calc"
+### Запуск игры "Определение четного числа"
 ```sh
-$ brain-calc
+make brain-even
 ```
 
-## For start game "Brain gcd"
+### Запуск игры "Калькулятор"
 ```sh
-$ brain-gcd
+make brain-calc
 ```
 
-## For start game "Brain progression"
+### Запуск игры 
 ```sh
-$ brain-progression
+make brain-gcd
 ```
 
-## For start game "Brain progression"
+### Запуск игры "Прогрессия"
 ```sh
-$ brain-progression
+make brain-progression
+```
+
+### "Определение простого числа"
+```sh
+make brain-prime
 ```
