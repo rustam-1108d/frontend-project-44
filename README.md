@@ -12,3 +12,8 @@ $ brain-even
 ```sh
 $ brain-calc
 ```
+
+## For start game "Brain gcd"
+```sh
+$ brain-gcd
+```
